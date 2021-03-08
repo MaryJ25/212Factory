@@ -1,5 +1,4 @@
-from tesla import Tesla, 
-from modelx import ModelX
+import scripts
 
 
 def test_color():
