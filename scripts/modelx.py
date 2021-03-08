@@ -1,4 +1,4 @@
-from tesla import Tesla
+from .tesla import Tesla
 
 
 class ModelX(Tesla):
