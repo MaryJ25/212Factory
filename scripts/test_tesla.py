@@ -10,8 +10,3 @@ def test_color():
 def test_welcome():
     tesla = Tesla("R", "red")
     assert tesla.welcome() == "Hello from model R!"
-
-
-def test_open_doors():
-    model = ModelX("purple")
-    assert model.open_doors() == "Doors open towards the roof"
