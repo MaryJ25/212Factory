@@ -3,7 +3,10 @@ This repo is made as a part of excersise in a Data Science course
 
 ### Contents
 
-The main.py file contains the "Tesla" class and it's subclass "ModelX". In the test_main.py file are the pytest tests, checking that all the class elements work as expected.
+The tesla.py file contains the "Tesla" class and the modelx.py file has the subclass "ModelX". 
+
+In the test_tesla.py and test_modelx.py files are the pytest tests, checking that all the class elements work as expected.
+The factory.py file has examples of how to code works.
 
 ### How to use
 
