@@ -1,4 +1,5 @@
-from main import Tesla, ModelX
+from tesla import Tesla, 
+from modelx import ModelX
 
 
 def test_color():
