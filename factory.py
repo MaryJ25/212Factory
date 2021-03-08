@@ -1,5 +1,4 @@
-from scripts.tesla import Tesla
-from scripts.modelx import ModelX
+import scripts
 
 tesla = Tesla("C", "Black")
 modelx = ModelX("purple")
