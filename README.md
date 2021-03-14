@@ -1,6 +1,8 @@
 # 212Factory
 This repo is made as a part of excersise in a Data Science course
 
+It's not finished and doesn't work
+
 ### Contents
 
 The tesla.py file contains the "Tesla" class and the modelx.py file has the subclass "ModelX". 
